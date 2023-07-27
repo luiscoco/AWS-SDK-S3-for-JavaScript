@@ -3,6 +3,8 @@
 
 https://aws.amazon.com/developer/language/javascript/
 
+https://github.com/awsdocs/aws-doc-sdk-examples/tree/main
+
 ## Overview
 
 Shows how to use the AWS SDK for JavaScript (v3) to work with Amazon Simple Storage Service (Amazon S3).
